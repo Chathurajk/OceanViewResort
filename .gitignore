@@ -1,0 +1,12 @@
+target/
+*.class
+*.iml
+.idea/
+*.log
+*.war
+*.jar
+db.properties
+.idea/
+.smarttomcat/
+target/
+*.iml
